@@ -1,0 +1,16 @@
+PODS:
+  - GoruFramework (1.0.0)
+
+DEPENDENCIES:
+  - GoruFramework (from `../GoruFramework/`)
+
+EXTERNAL SOURCES:
+  GoruFramework:
+    :path: "../GoruFramework/"
+
+SPEC CHECKSUMS:
+  GoruFramework: d416bc98911b66d508a5465c42969e040daf816a
+
+PODFILE CHECKSUM: 67416b4a0a5376a7aaac1d38c17844bb138f84cc
+
+COCOAPODS: 1.9.1

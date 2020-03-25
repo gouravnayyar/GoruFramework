@@ -1,0 +1,6 @@
+framework module GoruFramework {
+  umbrella header "GoruFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
